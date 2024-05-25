@@ -51,7 +51,7 @@ Pour améliorer notre méthode, nous envisageons de tester notre approche sur de
 
 ## Dataset
 
-Vous pouvez trouver le jeu de données MIDV-Holo [ici](https://github.com/SmartEngines/midv-holo).
+Vous pouvez trouver le dataset MIDV-Holo [ici](https://github.com/SmartEngines/midv-holo).
 
 ## Membres du Projet
 
